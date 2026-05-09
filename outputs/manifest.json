@@ -1,0 +1,900 @@
+{
+  "files": {
+    "dbc": [
+      {
+        "relative_path": "Databases\\Endurances_Variables.dbc",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\Endurances_Variables.dbc",
+        "exists": true,
+        "filename": "Endurances_Variables.dbc"
+      },
+      {
+        "relative_path": "Databases\\Environment_Variables.dbc",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\Environment_Variables.dbc",
+        "exists": true,
+        "filename": "Environment_Variables.dbc"
+      },
+      {
+        "relative_path": "Databases\\Errors_List.dbc",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\Errors_List.dbc",
+        "exists": true,
+        "filename": "Errors_List.dbc"
+      },
+      {
+        "relative_path": "Databases\\DCU_FULL_ZCU_SPX_wOffset_021525.dbc",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\DCU_FULL_ZCU_SPX_wOffset_021525.dbc",
+        "exists": true,
+        "filename": "DCU_FULL_ZCU_SPX_wOffset_021525.dbc"
+      }
+    ],
+    "ldf": [
+      {
+        "relative_path": "Databases\\NET_EE_LDF_LIN_DCU_P_DCU-P-DCP_PLP3_R2.ldf",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\NET_EE_LDF_LIN_DCU_P_DCU-P-DCP_PLP3_R2.ldf",
+        "exists": true,
+        "filename": "NET_EE_LDF_LIN_DCU_P_DCU-P-DCP_PLP3_R2.ldf"
+      },
+      {
+        "relative_path": "Databases\\NET_EE_LDF_DCU_RL_LIN_DCU-RL-DCRL_PLP3_R2.ldf",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\NET_EE_LDF_DCU_RL_LIN_DCU-RL-DCRL_PLP3_R2.ldf",
+        "exists": true,
+        "filename": "NET_EE_LDF_DCU_RL_LIN_DCU-RL-DCRL_PLP3_R2.ldf"
+      },
+      {
+        "relative_path": "Databases\\NET_EE_LDF_DCU_RR_LIN_DCU-RR-DCRR_PLP3_R2.ldf",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\NET_EE_LDF_DCU_RR_LIN_DCU-RR-DCRR_PLP3_R2.ldf",
+        "exists": true,
+        "filename": "NET_EE_LDF_DCU_RR_LIN_DCU-RR-DCRR_PLP3_R2.ldf"
+      },
+      {
+        "relative_path": "Databases\\Souche_LIN_DCU_FD_1.2_2.ldf",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\Souche_LIN_DCU_FD_1.2_2.ldf",
+        "exists": true,
+        "filename": "Souche_LIN_DCU_FD_1.2_2.ldf"
+      },
+      {
+        "relative_path": "Databases\\NET_EE_LDF_LIN_DCU_D_DCU_D-DCD_PLP3_R3.ldf",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\NET_EE_LDF_LIN_DCU_D_DCU_D-DCD_PLP3_R3.ldf",
+        "exists": true,
+        "filename": "NET_EE_LDF_LIN_DCU_D_DCU_D-DCD_PLP3_R3.ldf"
+      }
+    ],
+    "vsysvar": [
+      {
+        "relative_path": "TestSystem\\Sysvar\\OSI_General.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Sysvar\\OSI_General.vsysvar",
+        "exists": true,
+        "filename": "OSI_General.vsysvar"
+      },
+      {
+        "relative_path": "TestSystem\\Sysvar\\PS_TDK-Lambda.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Sysvar\\PS_TDK-Lambda.vsysvar",
+        "exists": true,
+        "filename": "PS_TDK-Lambda.vsysvar"
+      },
+      {
+        "relative_path": "TestSystem\\Sysvar\\VT-System.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Sysvar\\VT-System.vsysvar",
+        "exists": true,
+        "filename": "VT-System.vsysvar"
+      },
+      {
+        "relative_path": "TestSystem\\Sysvar\\FIUSysvar.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Sysvar\\FIUSysvar.vsysvar",
+        "exists": true,
+        "filename": "FIUSysvar.vsysvar"
+      },
+      {
+        "relative_path": "Databases\\Config_Data_variables.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\Config_Data_variables.vsysvar",
+        "exists": true,
+        "filename": "Config_Data_variables.vsysvar"
+      },
+      {
+        "relative_path": "Databases\\VIN_variables.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\VIN_variables.vsysvar",
+        "exists": true,
+        "filename": "VIN_variables.vsysvar"
+      },
+      {
+        "relative_path": "Databases\\SPx_sysvar.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Databases\\SPx_sysvar.vsysvar",
+        "exists": true,
+        "filename": "SPx_sysvar.vsysvar"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\CS00011_Variables.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\CS00011_Variables.vsysvar",
+        "exists": true,
+        "filename": "CS00011_Variables.vsysvar"
+      },
+      {
+        "relative_path": "Sysvar\\Panel_sysvar.vsysvar",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Sysvar\\Panel_sysvar.vsysvar",
+        "exists": true,
+        "filename": "Panel_sysvar.vsysvar"
+      }
+    ],
+    "can": [
+      {
+        "relative_path": "CAPL\\DCP.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\DCP.can",
+        "exists": true,
+        "filename": "DCP.can"
+      },
+      {
+        "relative_path": "CAPL\\DCRR.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\DCRR.can",
+        "exists": true,
+        "filename": "DCRR.can"
+      },
+      {
+        "relative_path": "CAPL\\VSM.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\VSM.can",
+        "exists": true,
+        "filename": "VSM.can"
+      },
+      {
+        "relative_path": "CAPL\\Current_Endurance.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Current_Endurance.can",
+        "exists": true,
+        "filename": "Current_Endurance.can"
+      },
+      {
+        "relative_path": "CAPL\\MECHA_AD.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\MECHA_AD.can",
+        "exists": true,
+        "filename": "MECHA_AD.can"
+      },
+      {
+        "relative_path": "CAPL\\DCRL.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\DCRL.can",
+        "exists": true,
+        "filename": "DCRL.can"
+      },
+      {
+        "relative_path": "Automation\\Bus_off\\test_bus_off.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\Bus_off\\test_bus_off.can",
+        "exists": true,
+        "filename": "test_bus_off.can"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTSystem.can",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTSystem.can",
+        "exists": true,
+        "filename": "VTSystem.can"
+      }
+    ],
+    "xvp": [
+      {
+        "relative_path": "Panel\\Home.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Home.xvp",
+        "exists": true,
+        "filename": "Home.xvp"
+      },
+      {
+        "relative_path": "Panel\\Latch_Function.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Latch_Function.xvp",
+        "exists": true,
+        "filename": "Latch_Function.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DOpure.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DOpure.xvp",
+        "exists": true,
+        "filename": "VTS_DOpure.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO5V-FP.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO5V-FP.xvp",
+        "exists": true,
+        "filename": "VTS_DO5V-FP.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_S_LATCH.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_S_LATCH.xvp",
+        "exists": true,
+        "filename": "VTS_S_LATCH.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_AI_DIFF.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_AI_DIFF.xvp",
+        "exists": true,
+        "filename": "VTS_AI_DIFF.xvp"
+      },
+      {
+        "relative_path": "Panel\\Bus LIN.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Bus LIN.xvp",
+        "exists": true,
+        "filename": "Bus LIN.xvp"
+      },
+      {
+        "relative_path": "Panel\\Configuration.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Configuration.xvp",
+        "exists": true,
+        "filename": "Configuration.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO-FP.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO-FP.xvp",
+        "exists": true,
+        "filename": "VTS_DO-FP.xvp"
+      },
+      {
+        "relative_path": "Panel\\Help.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Help.xvp",
+        "exists": true,
+        "filename": "Help.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO-FD.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO-FD.xvp",
+        "exists": true,
+        "filename": "VTS_DO-FD.xvp"
+      },
+      {
+        "relative_path": "Panel\\JDD.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\JDD.xvp",
+        "exists": true,
+        "filename": "JDD.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\FIU.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\FIU.xvp",
+        "exists": true,
+        "filename": "FIU.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_S_DOWN_UP_WL.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_S_DOWN_UP_WL.xvp",
+        "exists": true,
+        "filename": "VTS_S_DOWN_UP_WL.xvp"
+      },
+      {
+        "relative_path": "Panel\\ON_OFF_Function.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\ON_OFF_Function.xvp",
+        "exists": true,
+        "filename": "ON_OFF_Function.xvp"
+      },
+      {
+        "relative_path": "Panel\\Load_profile.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Load_profile.xvp",
+        "exists": true,
+        "filename": "Load_profile.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO5V-FD.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO5V-FD.xvp",
+        "exists": true,
+        "filename": "VTS_DO5V-FD.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO.xvp",
+        "exists": true,
+        "filename": "VTS_DO.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_INFO_CRASH.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_INFO_CRASH.xvp",
+        "exists": true,
+        "filename": "VTS_INFO_CRASH.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_S_RVM.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_S_RVM.xvp",
+        "exists": true,
+        "filename": "VTS_S_RVM.xvp"
+      },
+      {
+        "relative_path": "Panel\\Endurances\\Help_Premium_B3.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Endurances\\Help_Premium_B3.xvp",
+        "exists": true,
+        "filename": "Help_Premium_B3.xvp"
+      },
+      {
+        "relative_path": "Panel\\Low_Layer.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Low_Layer.xvp",
+        "exists": true,
+        "filename": "Low_Layer.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_UBATT.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_UBATT.xvp",
+        "exists": true,
+        "filename": "VTS_UBATT.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO-RR.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO-RR.xvp",
+        "exists": true,
+        "filename": "VTS_DO-RR.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_AOUT.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_AOUT.xvp",
+        "exists": true,
+        "filename": "VTS_AOUT.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DI-RR.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DI-RR.xvp",
+        "exists": true,
+        "filename": "VTS_DI-RR.xvp"
+      },
+      {
+        "relative_path": "Panel\\Create_profile.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Create_profile.xvp",
+        "exists": true,
+        "filename": "Create_profile.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_AI.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_AI.xvp",
+        "exists": true,
+        "filename": "VTS_AI.xvp"
+      },
+      {
+        "relative_path": "Panel\\Lighting.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Lighting.xvp",
+        "exists": true,
+        "filename": "Lighting.xvp"
+      },
+      {
+        "relative_path": "VTS_DO5V-FP.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO5V-FP.xvp",
+        "exists": true,
+        "filename": "VTS_DO5V-FP.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DI.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DI.xvp",
+        "exists": true,
+        "filename": "VTS_DI.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DI-FD.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DI-FD.xvp",
+        "exists": true,
+        "filename": "VTS_DI-FD.xvp"
+      },
+      {
+        "relative_path": "Panel\\WakeUp.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\WakeUp.xvp",
+        "exists": true,
+        "filename": "WakeUp.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_PERM.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_PERM.xvp",
+        "exists": true,
+        "filename": "VTS_PERM.xvp"
+      },
+      {
+        "relative_path": "Panel\\Endurances\\Random2.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Endurances\\Random2.xvp",
+        "exists": true,
+        "filename": "Random2.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DI-RL.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DI-RL.xvp",
+        "exists": true,
+        "filename": "VTS_DI-RL.xvp"
+      },
+      {
+        "relative_path": "Panel\\Secured_Signals.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Secured_Signals.xvp",
+        "exists": true,
+        "filename": "Secured_Signals.xvp"
+      },
+      {
+        "relative_path": "Panel\\RVM_Function.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\RVM_Function.xvp",
+        "exists": true,
+        "filename": "RVM_Function.xvp"
+      },
+      {
+        "relative_path": "Panel\\WL_Function.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\WL_Function.xvp",
+        "exists": true,
+        "filename": "WL_Function.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VT_MOTOR_xyTRACT.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VT_MOTOR_xyTRACT.xvp",
+        "exists": true,
+        "filename": "VT_MOTOR_xyTRACT.xvp"
+      },
+      {
+        "relative_path": "Panel\\COE_Flush_Function.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\COE_Flush_Function.xvp",
+        "exists": true,
+        "filename": "COE_Flush_Function.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\PS_TDK-Lambda.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\PS_TDK-Lambda.xvp",
+        "exists": true,
+        "filename": "PS_TDK-Lambda.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_MP.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_MP.xvp",
+        "exists": true,
+        "filename": "VTS_MP.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DO-RL.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DO-RL.xvp",
+        "exists": true,
+        "filename": "VTS_DO-RL.xvp"
+      },
+      {
+        "relative_path": "Panel\\Power_Supply.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Power_Supply.xvp",
+        "exists": true,
+        "filename": "Power_Supply.xvp"
+      },
+      {
+        "relative_path": "Panel\\Push_List.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Panel\\Push_List.xvp",
+        "exists": true,
+        "filename": "Push_List.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_WARN.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_WARN.xvp",
+        "exists": true,
+        "filename": "VTS_WARN.xvp"
+      },
+      {
+        "relative_path": "TestSystem\\Panel\\VTS_DI-FP.xvp",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\Panel\\VTS_DI-FP.xvp",
+        "exists": true,
+        "filename": "VTS_DI-FP.xvp"
+      }
+    ],
+    "cin": [
+      {
+        "relative_path": "Automation\\2ELong\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\2ELong\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\22_18_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\22_18_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\22_18_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\22_18_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\22_18_2025\\24_10_2025_bis\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\22_18_2025\\24_10_2025_bis\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\22_18_2025\\24_10_2025_bis\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\22_18_2025\\24_10_2025_bis\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\28_10\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\28_10\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\Full analysis\\28_10\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\Full analysis\\28_10\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\16_10_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\16_10_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\16_10_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\16_10_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\22_18_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\22_18_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\22_18_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\22_18_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\23_10_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\23_10_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\23_10_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\23_10_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\24_10_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\24_10_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\24_10_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\24_10_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\Debug_09_10\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\Debug_09_10\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\Debug_14_10_2025\\TestFunctions.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\Debug_14_10_2025\\TestFunctions.cin",
+        "exists": true,
+        "filename": "TestFunctions.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\Debug_14_10_2025\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\Debug_14_10_2025\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingNew\\LightinTestAut\\UDS_Library (1).cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingNew\\LightinTestAut\\UDS_Library (1).cin",
+        "exists": true,
+        "filename": "UDS_Library (1).cin"
+      },
+      {
+        "relative_path": "Automation\\DCU_Automation\\LightingTestAut\\debug\\UDS_Library.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Automation\\DCU_Automation\\LightingTestAut\\debug\\UDS_Library.cin",
+        "exists": true,
+        "filename": "UDS_Library.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Commands.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Commands.cin",
+        "exists": true,
+        "filename": "Commands.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\CRC_lib.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\CRC_lib.cin",
+        "exists": true,
+        "filename": "CRC_lib.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Create_Profile.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Create_Profile.cin",
+        "exists": true,
+        "filename": "Create_Profile.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Decode_Defect.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Decode_Defect.cin",
+        "exists": true,
+        "filename": "Decode_Defect.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\ECU_Wakeup_Module.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\ECU_Wakeup_Module.cin",
+        "exists": true,
+        "filename": "ECU_Wakeup_Module.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Endurances_Function.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Endurances_Function.cin",
+        "exists": true,
+        "filename": "Endurances_Function.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Read_Profile.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Read_Profile.cin",
+        "exists": true,
+        "filename": "Read_Profile.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Usual_Function.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Usual_Function.cin",
+        "exists": true,
+        "filename": "Usual_Function.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\VIN_Mngmt_Module.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\VIN_Mngmt_Module.cin",
+        "exists": true,
+        "filename": "VIN_Mngmt_Module.cin"
+      },
+      {
+        "relative_path": "CAPL\\Misc\\Writing.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\CAPL\\Misc\\Writing.cin",
+        "exists": true,
+        "filename": "Writing.cin"
+      },
+      {
+        "relative_path": "Testenv\\Utils.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\Testenv\\Utils.cin",
+        "exists": true,
+        "filename": "Utils.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\Access_PS_Tdkl.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\Access_PS_Tdkl.cin",
+        "exists": true,
+        "filename": "Access_PS_Tdkl.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\FaultInjectionUnit.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\FaultInjectionUnit.cin",
+        "exists": true,
+        "filename": "FaultInjectionUnit.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_AL_PS_Utils.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_AL_PS_Utils.cin",
+        "exists": true,
+        "filename": "OSI_AL_PS_Utils.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_General.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_General.cin",
+        "exists": true,
+        "filename": "OSI_General.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_NL_Tcp.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_NL_Tcp.cin",
+        "exists": true,
+        "filename": "OSI_NL_Tcp.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_PL_Queue_Common.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_PL_Queue_Common.cin",
+        "exists": true,
+        "filename": "OSI_PL_Queue_Common.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_PL_Queue_String.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_PL_Queue_String.cin",
+        "exists": true,
+        "filename": "OSI_PL_Queue_String.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_TL_StringBasic.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_TL_StringBasic.cin",
+        "exists": true,
+        "filename": "OSI_TL_StringBasic.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\OSI_Utils.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\OSI_Utils.cin",
+        "exists": true,
+        "filename": "OSI_Utils.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\PL_PS_TDK-Lambda-G.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\PL_PS_TDK-Lambda-G.cin",
+        "exists": true,
+        "filename": "PL_PS_TDK-Lambda-G.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\PL_PS_TDK-Lambda-Z.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\PL_PS_TDK-Lambda-Z.cin",
+        "exists": true,
+        "filename": "PL_PS_TDK-Lambda-Z.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\Utils.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\Utils.cin",
+        "exists": true,
+        "filename": "Utils.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_AI.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_AI.cin",
+        "exists": true,
+        "filename": "VTS_AI.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_AI_DIFF.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_AI_DIFF.cin",
+        "exists": true,
+        "filename": "VTS_AI_DIFF.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_AOUT.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_AOUT.cin",
+        "exists": true,
+        "filename": "VTS_AOUT.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DI-FD.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DI-FD.cin",
+        "exists": true,
+        "filename": "VTS_DI-FD.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DI-FP.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DI-FP.cin",
+        "exists": true,
+        "filename": "VTS_DI-FP.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DI-RL.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DI-RL.cin",
+        "exists": true,
+        "filename": "VTS_DI-RL.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DI-RR.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DI-RR.cin",
+        "exists": true,
+        "filename": "VTS_DI-RR.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DI.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DI.cin",
+        "exists": true,
+        "filename": "VTS_DI.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DO-FD.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DO-FD.cin",
+        "exists": true,
+        "filename": "VTS_DO-FD.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DO-FP.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DO-FP.cin",
+        "exists": true,
+        "filename": "VTS_DO-FP.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DO-RL.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DO-RL.cin",
+        "exists": true,
+        "filename": "VTS_DO-RL.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DO-RR.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DO-RR.cin",
+        "exists": true,
+        "filename": "VTS_DO-RR.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_DO.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_DO.cin",
+        "exists": true,
+        "filename": "VTS_DO.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H-BRIDGE.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H-BRIDGE.cin",
+        "exists": true,
+        "filename": "VTS_H-BRIDGE.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H-BRIDGEs.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H-BRIDGEs.cin",
+        "exists": true,
+        "filename": "VTS_H-BRIDGEs.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H_BRIDGE.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H_BRIDGE.cin",
+        "exists": true,
+        "filename": "VTS_H_BRIDGE.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H_BRIDGE_COM.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H_BRIDGE_COM.cin",
+        "exists": true,
+        "filename": "VTS_H_BRIDGE_COM.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H_BRIDGE_CURRENT.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H_BRIDGE_CURRENT.cin",
+        "exists": true,
+        "filename": "VTS_H_BRIDGE_CURRENT.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_H_BRIDGE_PM.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_H_BRIDGE_PM.cin",
+        "exists": true,
+        "filename": "VTS_H_BRIDGE_PM.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_INFO_CRASH.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_INFO_CRASH.cin",
+        "exists": true,
+        "filename": "VTS_INFO_CRASH.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_MP.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_MP.cin",
+        "exists": true,
+        "filename": "VTS_MP.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_PERM.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_PERM.cin",
+        "exists": true,
+        "filename": "VTS_PERM.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_UBATT.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_UBATT.cin",
+        "exists": true,
+        "filename": "VTS_UBATT.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\VTS_WARN.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\VTS_WARN.cin",
+        "exists": true,
+        "filename": "VTS_WARN.cin"
+      },
+      {
+        "relative_path": "TestSystem\\CAPL\\Test Allumage VT7001\\Utils.cin",
+        "absolute_path": "C:\\Users\\abboushi\\Desktop\\MDOOR_DEV_SPx_Baie2_v11 1\\MDOOR_DEV_SPx_Baie2_v11\\TestSystem\\CAPL\\Test Allumage VT7001\\Utils.cin",
+        "exists": true,
+        "filename": "Utils.cin"
+      }
+    ]
+  },
+  "nodes": [
+    {
+      "capl_file": "CAPL/DCP.can",
+      "node_name": "DCP_LIN_DCU_P",
+      "database": "NET_EE_LDF_LIN_DCU_P_DCUPDCP_PLP"
+    },
+    {
+      "capl_file": "CAPL/DCRR.can",
+      "node_name": "DCRR_DCU_RR_LIN",
+      "database": "NET_EE_LDF_DCU_RR_LIN_DCURRDCRR_"
+    },
+    {
+      "capl_file": "CAPL/VSM.can",
+      "node_name": "ZCU_CL",
+      "database": "HS_CAN_CABIN_LEFT2"
+    },
+    {
+      "capl_file": "CAPL/Current_Endurance.can",
+      "node_name": "5",
+      "database": "ECU 14"
+    },
+    {
+      "capl_file": "CAPL/MECHA_AD.can",
+      "node_name": "DCD_LIN_DCU_D",
+      "database": "NET_EE_LDF_LIN_DCU_D_DCU_DDCD_PL"
+    },
+    {
+      "capl_file": "CAPL/DCRL.can",
+      "node_name": "DCRL_DCU_RL_LIN",
+      "database": "NET_EE_LDF_DCU_RL_LIN_DCURLDCRL_"
+    }
+  ]
+}
